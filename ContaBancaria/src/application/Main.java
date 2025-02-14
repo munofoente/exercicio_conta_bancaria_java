@@ -42,11 +42,7 @@ public class Main {
 			System.out.println(acct.toString());
 		}
 
-		
-		//testando uma mudança pelo eclipse whadahell
-		
-				//testando uma mudança direto no github
-
+		//Só pra quando eu estiver na praia hahahahaha
 		sc.close();
 
 	}
