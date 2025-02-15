@@ -42,7 +42,7 @@ public class Main {
 			System.out.println(acct.toString());
 		}
 
-		//Só pra quando eu estiver na praia hahahahaha
+		//Só pra quando eu estiver em itape(burro colocou praia, to em 2020) hahahahaha
 		sc.close();
 
 	}
