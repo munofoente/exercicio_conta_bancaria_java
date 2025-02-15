@@ -12,7 +12,7 @@ public class Account {
 	public Account(int number, String name, double balance){
 		this.number = number;
 		this.name = name;
-		this.balance = balance;
+		Deposit(balance);
 	}
 	
 	public Account(int number, String name){
@@ -37,11 +37,11 @@ public class Account {
 	}
 
 	public void Deposit(double deposit){
-		balance = balance + deposit;
+		balance += + deposit;
 	}
 
 	public void Widthdraw(double newBalance){
-		balance = balance - newBalance - 5;
+		balance -= newBalance + 5;
 	}
 	
 	public String toString() {
