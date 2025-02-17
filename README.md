@@ -2,4 +2,7 @@
 Somente uma pasta contendo um exercício de POO/Estrutura de Dados/etc para estudos em Java
 </br> </br>
 Também estou usando esse repositório para aprender mais sobre versionamento e como funciona Git/GitHub no geral.
-> Estou começando a usar Git/GitHub, então  não sei mais o que colocar aqui
+<br>
+## Exercício ContaBancaria
+O exercício ContaBancaria é um simples programa em linha de comando que pede como entrada de dados o numéro de uma conta bancária, o nome do titular da conta e pergunta se o usuário quer fazer um depósito inicial. É um exercício simples para estudar conceitos de Orientação a Objetos como encapsulamento, classes, construtores e trabalhar com funções simples.
+
