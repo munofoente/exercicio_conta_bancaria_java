@@ -1,4 +1,4 @@
-# Exercícios de java para estudo
+# Exercícios de java para estudo(Feitos no eclipse - Desatualizado)
 Somente uma pasta contendo um exercício de POO/Estrutura de Dados/etc para estudos em Java
 </br> </br>
 Também estou usando esse repositório para aprender mais sobre versionamento e como funciona Git/GitHub no geral.
